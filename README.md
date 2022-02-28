@@ -4,12 +4,12 @@ Note: Starting for the first time may take some time... (3-4 min)
 
 - Virtual RStudio Environment
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeachingTest/main?urlpath=rstudio)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeaching/main?urlpath=rstudio)
 
 - Virtual JupyterLab + R
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeachingTest/main?urlpath=lab)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeaching/main?urlpath=lab)
 
 - Virtual RShiny
  
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeachingTest/main?urlpath=shiny)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeaching/main?urlpath=shiny)
