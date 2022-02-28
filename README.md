@@ -1,5 +1,6 @@
 __Click on icon below to launch__ 
-Starting for the first time may take some time...
+
+Note: Starting for the first time may take some time... (3-4 min)
 
 - Virtual RStudio Environment
 
