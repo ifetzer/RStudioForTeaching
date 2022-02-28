@@ -8,6 +8,6 @@ __Click on icon below to launch__
 
     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeachingTest/main?urlpath=lab)
 
-- Virtual RShin
+- Virtual RShiny
  
     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifetzer/RStudioForTeachingTest/main?urlpath=shiny)
