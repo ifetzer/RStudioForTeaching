@@ -1,4 +1,5 @@
 __Click on icon below to launch__ 
+Starting for the first time may take some time...
 
 - Virtual RStudio Environment
 
