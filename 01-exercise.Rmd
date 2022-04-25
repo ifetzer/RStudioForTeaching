@@ -1,0 +1,47 @@
+---
+title: "Exercise 1"
+output: html_document
+code_folding: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, comment = "")
+```
+
+1. Open an RStudio session
+2. Load the `gapminder` data
+
+```{r}
+library(gapminder)
+data(gapminder)
+```
+
+
+3. Which country has the highest `gdpPercap` in history?
+    - Tip: `sort()` and `order()`
+```{r}
+# write your answer here
+```
+
+
+4. Do larger countries in population have higher GDP?
+    - Tip: `plot()`\
+    
+```{r}
+# write your answer here
+```
+
+5. What is the highest `lifeExp`, where and when does it happen?
+    - Tip: `max()`
+
+```{r}
+# write your answer here
+```
+
+6. Visualize the life expectancy over time for Sweden
+    - Tip: `plot()`, `with()`
+
+```{r}
+# write your answer here
+```
+

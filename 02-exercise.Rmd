@@ -1,0 +1,59 @@
+---
+title: "Exercise 2"
+output: html_document
+code_folding: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, comment = "")
+```
+
+
+1. Open an RStudio session
+<small>https://github.com/ifetzer/RStudioForTeaching</small>
+2. Load the `gapminder` data
+
+```{r}
+dat <- gapminder::gapminder
+```
+
+3. `country` is of the class `factor`, discuss in couples what are they and when are useful?
+    - Tip: `help(factor)` & `help(levels)`
+
+```{r}
+# write your answer here
+```
+
+
+4. How many countries has the `gapminder` data?
+```{r}
+# write your answer here
+```
+
+5. Write a function to calculate the average
+    - Test it in small cases
+```{r}
+# write your answer here
+```
+
+
+6. For every country in the dataset calculate the average life expectancy, the range of the popluation, and the median GDP per capita
+    - Tip: `for()`, `median()`, `range()`
+  
+```{r}
+# write your answer here
+```
+
+7. Use the result to plot:
+    - Average `lifeExp` vs median `gdpPercap`
+
+```{r}
+# write your answer here
+```
+
+8. For every year in the dataset calculate the average life expectancy across all countries. Plot the result over time
+    - `??base::plot`
+
+```{r}
+# write your answer here
+```
