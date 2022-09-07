@@ -1,0 +1,25 @@
+---
+title: "Clustering and ordination"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+Lets practice what we learnt. There are two datasets on the `data` folder:
+
+- `Artificial_community_data_long.txt`
+- `Artificial_community_data.txt`
+
+1. Fit a principal component analysis
+2. Fit a clustering routinge (e.g. `kmeans`, `hclust`)
+3. Combine the two results on one plot
+4. Discuss in couples how to interpret the results, share key lessons with the class
+
+BONUS: Use `NbClust` and `clValid` to perform a sensitivity analysis on the number of clusters and best algorithms for the data.
+
+```{r}
+library(vegan)
+library(clValid)
+library(NbClust)
+```
+
